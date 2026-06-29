@@ -1,0 +1,3 @@
+Actual EV charging infrastructure data from 2023-2025 can be downloaded from this below given website:
+
+https://aikosh.indiaai.gov.in/home/datasets/details/telangana_ev_charging_stations_electricity_consumption_dataset.html
