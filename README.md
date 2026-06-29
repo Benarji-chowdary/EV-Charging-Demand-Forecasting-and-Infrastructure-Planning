@@ -3,6 +3,8 @@ Machine learning–based analysis of EV charging electricity consumption (2023�
 ⚡ EV Charging Infrastructure Planning and Forecasting in Telangana
 
 📌 Project Overview
+
+
 This project presents a data-driven framework for forecasting Electric Vehicle (EV) charging demand and planning charging infrastructure across Telangana. It combines time-series forecasting, machine learning, data visualization, and geographic analysis to support government agencies, policymakers, and private investors in making informed decisions regarding EV charging infrastructure expansion.The system predicts future electricity demand, identifies infrastructure gaps, estimates charging station requirements, analyzes profitability, and provides interactive dashboards for visualization.
 
 🎯 Objectives
